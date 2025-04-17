@@ -41,6 +41,7 @@ Here’s an example of the final Excel file with structured past and future rese
 
 ![Reservation summary preview](https://github.com/SBrouck/data-automation-booking-airbnb/blob/main/repogitdata.png)
 
+![Reservation summary preview](https://github.com/SBrouck/data-automation-booking-airbnb/blob/main/gitdataextract2.png)
 
 ## 🧰 Required input format
 
