@@ -35,6 +35,13 @@ It allowed me to significantly reduce manual data handling and streamline weekly
 
 ---
 
+## 📸 Output preview
+
+Here’s an example of the final Excel file with structured past and future reservation data:
+
+![Reservation summary preview](assets/reservation-summary-output.png)
+
+
 ## 🧰 Required input format
 
 ### Booking.com (CSV)
