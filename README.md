@@ -39,7 +39,7 @@ It allowed me to significantly reduce manual data handling and streamline weekly
 
 Here’s an example of the final Excel file with structured past and future reservation data:
 
-![Reservation summary preview](assets/reservation-summary-output.png)
+![Reservation summary preview](https://github.com/SBrouck/data-automation-booking-airbnb/blob/main/repogitdata.png)
 
 
 ## 🧰 Required input format
